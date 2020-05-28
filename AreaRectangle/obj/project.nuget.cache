@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZbVejfTRgsoR1AqBJDokHrJIgTCoGe3cU+NPM55LXvQCVUZTwAaUGJIGl7ujyGB0mLW/eHAm7sxNjwpSTyJohQ==",
+  "success": true,
+  "projectFilePath": "D:\\LaunchCode\\C#_practice\\Ch2 Data Types\\Exercises_DataTypes\\AreaRectangle\\AreaRectangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\John\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

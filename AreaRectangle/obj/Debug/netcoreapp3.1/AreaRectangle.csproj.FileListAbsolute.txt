@@ -1,0 +1,13 @@
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\AreaRectangle\bin\Debug\netcoreapp3.1\AreaRectangle.exe
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\AreaRectangle\bin\Debug\netcoreapp3.1\AreaRectangle.deps.json
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\AreaRectangle\bin\Debug\netcoreapp3.1\AreaRectangle.runtimeconfig.json
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\AreaRectangle\bin\Debug\netcoreapp3.1\AreaRectangle.runtimeconfig.dev.json
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\AreaRectangle\bin\Debug\netcoreapp3.1\AreaRectangle.dll
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\AreaRectangle\bin\Debug\netcoreapp3.1\AreaRectangle.pdb
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\AreaRectangle\obj\Debug\netcoreapp3.1\AreaRectangle.csprojAssemblyReference.cache
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\AreaRectangle\obj\Debug\netcoreapp3.1\AreaRectangle.AssemblyInfoInputs.cache
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\AreaRectangle\obj\Debug\netcoreapp3.1\AreaRectangle.AssemblyInfo.cs
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\AreaRectangle\obj\Debug\netcoreapp3.1\AreaRectangle.csproj.CoreCompileInputs.cache
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\AreaRectangle\obj\Debug\netcoreapp3.1\AreaRectangle.dll
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\AreaRectangle\obj\Debug\netcoreapp3.1\AreaRectangle.pdb
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\AreaRectangle\obj\Debug\netcoreapp3.1\AreaRectangle.genruntimeconfig.cache

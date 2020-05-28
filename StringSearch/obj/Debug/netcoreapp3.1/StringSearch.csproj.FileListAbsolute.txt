@@ -1,0 +1,13 @@
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.exe
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.deps.json
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.runtimeconfig.json
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.runtimeconfig.dev.json
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.dll
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\StringSearch\bin\Debug\netcoreapp3.1\StringSearch.pdb
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.csprojAssemblyReference.cache
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.AssemblyInfoInputs.cache
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.AssemblyInfo.cs
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.csproj.CoreCompileInputs.cache
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.dll
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.pdb
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\StringSearch\obj\Debug\netcoreapp3.1\StringSearch.genruntimeconfig.cache

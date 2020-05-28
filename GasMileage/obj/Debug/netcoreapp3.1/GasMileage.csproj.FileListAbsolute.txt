@@ -1,0 +1,13 @@
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\GasMileage\bin\Debug\netcoreapp3.1\GasMileage.exe
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\GasMileage\bin\Debug\netcoreapp3.1\GasMileage.deps.json
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\GasMileage\bin\Debug\netcoreapp3.1\GasMileage.runtimeconfig.json
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\GasMileage\bin\Debug\netcoreapp3.1\GasMileage.runtimeconfig.dev.json
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\GasMileage\bin\Debug\netcoreapp3.1\GasMileage.dll
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\GasMileage\bin\Debug\netcoreapp3.1\GasMileage.pdb
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\GasMileage\obj\Debug\netcoreapp3.1\GasMileage.csprojAssemblyReference.cache
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\GasMileage\obj\Debug\netcoreapp3.1\GasMileage.AssemblyInfoInputs.cache
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\GasMileage\obj\Debug\netcoreapp3.1\GasMileage.AssemblyInfo.cs
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\GasMileage\obj\Debug\netcoreapp3.1\GasMileage.csproj.CoreCompileInputs.cache
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\GasMileage\obj\Debug\netcoreapp3.1\GasMileage.dll
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\GasMileage\obj\Debug\netcoreapp3.1\GasMileage.pdb
+D:\LaunchCode\C#_practice\Ch2 Data Types\Exercises_DataTypes\GasMileage\obj\Debug\netcoreapp3.1\GasMileage.genruntimeconfig.cache
